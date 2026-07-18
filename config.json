@@ -1,0 +1,15 @@
+{
+  "discord_token": "YOUR_BOT_TOKEN_HERE",
+  "guild_id": 0,
+  "api": {
+    "host": "0.0.0.0",
+    "port": 5000
+  },
+  "cache": {
+    "ttl_seconds": 30
+  },
+  "rate_limit": {
+    "max_requests": 20,
+    "window_seconds": 60
+  }
+}
